@@ -12,6 +12,6 @@ public class Seocnd {
     }
 
     void test2(){
-        System.out.print("QA");
+        System.out.print("QA new hcnage");
     }
 }
