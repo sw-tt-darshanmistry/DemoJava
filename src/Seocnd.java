@@ -8,7 +8,14 @@ public class Seocnd {
         System.out.print("Digit");
         System.out.print("Digit");
         System.out.print("Digit");
-        System.out.print("Digit");
+        System.out.print("Darshan");
+
+        for (int i = 0; i < 10; i++) {
+
+        }
+
+
+
     }
 
     void test2(){
