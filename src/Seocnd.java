@@ -10,4 +10,8 @@ public class Seocnd {
         System.out.print("Digit");
         System.out.print("Digit");
     }
+
+    void test2(){
+        System.out.print("QA");
+    }
 }
